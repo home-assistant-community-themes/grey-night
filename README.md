@@ -52,7 +52,7 @@ frontend:
 2. Search for `Grey Night`.
 3. Navigate to `Grey Night` theme.
 4. Press `Install`.
-5. Restart Home Assistant to make it show up.
+5. Go to services and trigger the `frontend.reload_themes` service.
 
 ### Manual
 
